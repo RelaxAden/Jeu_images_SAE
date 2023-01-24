@@ -1,0 +1,27 @@
+==================================================================
+Instructions application SAE2 Etape 5, DUBREUIL Alexandre 22011105
+==================================================================
+
+1. Installez libsdl-ttf2.0-0 et libsdl-ttf2.0-dev si ce n'est pas déjà fait (pour l'affichage du texte).
+2. Positionnez vous dans le répertoire "jeu".
+3. Compilez à l'aide de la commande "make".
+4. Exécutez le programme avec la commande "./main".
+5. Jouez.
+
+========================
+Déroulement d'une partie
+========================
+I) MODE UN JOUEUR
+a. Appuyez sur l'image correspondant à un joueur.
+b. Appuyez sur l'image correspondant à la langue dans laquelle vous voulez jouer.
+c. Entrez votre réponse sur l'entrée standard puis appuyez sur la touche "entrée".
+d. Validez votre réponse en appuyant sur l'image de validation (se situant sur la droite de la fenêtre).
+e. Appuyez sur une des deux images selon si vous voulez rejouer ou non.
+
+II) MODE DEUX JOUEURS
+a. Appuyez sur l'image correspondant à deux joueurs.
+b. Le joueur 1 doit entrer un mot en français présent dans le dictionnaire sur l'entrée standard puis doit appuyer sur la touche "entrée".
+c. Le joueur 1 doit valider le mot en appuyant sur l'image de validation (se situant sur la droite de la fenêtre).
+d. Le joueur 2 doit entrer sa réponse en anglais sur l'entrée standard puis doit appuyer sur la touche "entrée".
+e. Le joueur 1 doit valider sa réponse en appuyant sur l'image de validation (se situant sur la droite de la fenêtre).
+f. Appuyez sur une des deux images selon si vous voulez rejouer ou non.
